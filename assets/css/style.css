@@ -182,6 +182,17 @@ p { margin: 0 0 1em; }
   transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
+/* ---------- Top Banner ---------- */
+.top-banner {
+  width: 100%;
+  line-height: 0;
+}
+.top-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* ---------- Hero ---------- */
 .hero {
   position: relative;
